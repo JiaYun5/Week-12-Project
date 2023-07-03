@@ -3,7 +3,9 @@
 <br>
 <h3> Instructions <h3>
   <br>
- 
+ <p> You have crashed your spaceship on an unknown planet and communications have been broken. To bring it back up, 4 special
+ parts have to be collected and placed into the reactor to enable communications with your fellows back at the space station. 
+ Be careful of the slimes surrounding the parts as they are deadly and will kill you immediately when touched. </p>
   <ul> 
     <li> Movement uses the WASD keys </li>
     <li> Use the mouse to turn and look left right up and down </li>
